@@ -5,6 +5,8 @@
 - 💎 Built solutions based on 3-D Secure, FinTech, Industrial Automation, IOT and US Health Care domains.
 - 💞️ Likes adapting and learning new technologies and frameworks.
 - 📫 Reach me @
-      fatimasajjad514@gmail.com  
-      www.linkedin.com/in/fatima-sajjad-b84665b3
-
+      fatimasajjad514@gmail.com
+- 🌟 Profiles and Stats:
+   - www.linkedin.com/in/fatima-sajjad-b84665b3
+   - https://www.hackerrank.com/fatimasajjad514
+   - https://leetcode.com/FatimaSajjad/
