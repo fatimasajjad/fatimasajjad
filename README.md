@@ -1,8 +1,8 @@
 
 - 👋 Hi, I’m @fatimasajjad.
-- ✨ Full Stack Senior Software Engineer. Focused on Backend. 7+ years of experience working both onsite and remote.
+- ✨ Full Stack Senior Software Engineer. Focused on Backend. 8 years of experience working both onsite and remote.
 - 💪 Ability to solve problems and collaborate with teams to timely deliver highly scalable, secure, performant, and high-quality solutions.
-- 🌱 Skilled in Java, Spring, Restful Microservices, Angular, Microservices, Relational and NoSQL Databases and distributed systems technologies.
+- 🌱 Skilled in Java, Kotlin, SpringBoot, Restful Microservices, Angular, Microservices, Relational and NoSQL Databases and distributed systems technologies.
 - 💎 Built solutions based on 3-D Secure, FinTech, Industrial Automation, IOT and US Health Care domains.
 - 💞️ Likes adapting and learning new technologies and frameworks.
 - 📫 Reach me @
